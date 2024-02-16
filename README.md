@@ -1,4 +1,4 @@
-#### Menu-Driven Java Program for Student Management
+# Menu-Driven Java Program for Student Management
 This Java program demonstrates the concepts of classes, arrays of objects, instance members, and constructors. It allows the user to perform various operations on a collection of student records, including adding students, displaying records, searching by PRN, name, or position, updating/editing records, and deleting records.
 
 ## Student Class
